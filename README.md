@@ -1,5 +1,4 @@
-## Hi there 👋
-
+Passionate about Open Source, Functional Programming and privacy. 6 years of experience commercial development.
 <!--
 **Kamatayon/Kamatayon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
