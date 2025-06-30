@@ -1,4 +1,4 @@
-Passionate about Open Source, Functional Programming and privacy. 6 years of experience commercial development.
+Passionate about Open Source, Functional Programming and privacy. 6 years of experience in the commercial development.
 
 ### Technologies
 
